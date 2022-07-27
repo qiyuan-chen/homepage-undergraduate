@@ -20,7 +20,7 @@ I am currently focusing on natural language processing under resource-constraine
 
 我目前关注资源受限条件下的自然语言处理。主要包括但不限于：
 
-1. 数据资源受限：文本数据增强方法，半监督学习和few-shot学习。
+1. 数据资源受限：文本数据增强方法，半监督学习和少样本学习。
 2. 计算资源受限：知识蒸馏和参数量化。
 
 # Publication
