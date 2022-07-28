@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a junior undergraduate student in the School of Mathematics and Statistics, majoring in Statistics, at Huazhong Normal University. In the second semester of my freshman year, I started my research work related to natural language processing under the supervision of Prof. Haitong Yang and Dr. Le Li.
+I am currently a junior undergraduate student in the School of Mathematics and Statistics, majoring in Statistics, at Central China Normal University. In the second semester of my freshman year, I started my research work related to natural language processing under the supervision of Prof. [Haitong Yang](http://cs.ccnu.edu.cn/info/1158/2237.htm) and Dr. Le Li.
 
-我现在是华中师范大学数学与统计学学院，统计学专业的一名大三年级本科生。在大一第二学期，我在杨海彤教授和李乐博士的指导下开始自然语言处理相关的研究工作。
+我现在是华中师范大学数学与统计学学院，统计学专业的一名大三年级本科生。在大一第二学期，我在[杨海彤](http://cs.ccnu.edu.cn/info/1158/2237.htm)副教授和李乐博士的指导下开始自然语言处理相关的研究工作。
 
 # Research Interests
 
@@ -20,12 +20,12 @@ I am currently focusing on natural language processing under resource-constraine
 
 我目前关注资源受限条件下的自然语言处理。主要包括但不限于：
 
-1. 数据资源受限：文本数据增强方法，半监督学习和few-shot学习。
+1. 数据资源受限：文本数据增强方法，半监督学习和少样本学习。
 2. 计算资源受限：知识蒸馏和参数量化。
 
 # Publication
 
-1. Wei J, **Chen Q**, Peng P, et al. Reprint: a randomized extrapolation based on principal components for data augmentation[J]. arXiv preprint arXiv:2204.12024, 2022.[Link](https://arxiv.org/abs/2204.12024)
+1. Wei J, **Chen Q**, Peng P, et al. Reprint: a randomized extrapolation based on principal components for data augmentation[J]. arXiv preprint arXiv:2204.12024, 2022.    [Link](https://arxiv.org/abs/2204.12024)
 
 # Awards and Achievements
 Math Modeling
