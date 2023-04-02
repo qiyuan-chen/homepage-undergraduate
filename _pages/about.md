@@ -7,9 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**非常感谢您的关注。我在此表示衷心感激。目前，我正在寻找24Fall国内推免导师（国外亦可），若您对我的个人经历有兴趣，我将不胜感激，并诚挚邀请您与我联系，以便更进一步地沟通和交流。再次感谢您的关注和支持。（邮箱：chenqiyuan1012@foxmail.com qiyuanchen@mails.ccnu.edu.cn）**
+**我在此表示衷心感谢您的关注。目前，我正在寻找24Fall国内推免的人工智能、统计学、大数据方向的硕士或博士生导师（国外亦可），借此主页*简单介绍*个人情况（更多竞赛、科研、项目经历欢迎进一步详聊），若您对我有兴趣，可以邮件联系（邮箱：chenqiyuan1012@foxmail.com qiyuanchen@mails.ccnu.edu.cn）。**
 
-我现在是华中师范大学数学与统计学学院，统计学专业的一名大三年级本科生。在大一第二学期，我在[杨海彤](http://cs.ccnu.edu.cn/info/1158/2237.htm)副教授和[李波](http://maths.ccnu.edu.cn/info/1040/18436.htm)教授的指导下开始自然语言处理和教育大数据相关的研究工作。
+NOTE：本主页只是
+
+我现在是华中师范大学数学与统计学学院，统计学专业的一名大三年级本科生，排名2/26。在大一第二学期，我在[杨海彤](http://cs.ccnu.edu.cn/info/1158/2237.htm)副教授和[李波](http://maths.ccnu.edu.cn/info/1040/18436.htm)教授的指导下开始自然语言处理和教育大数据相关的研究工作。
 
 I am currently a junior undergraduate student in the School of Mathematics and Statistics, majoring in Statistics, at Central China Normal University. In the second semester of my freshman year, I started my research work related to natural language processing and big data in education under the supervision of Prof. [Haitong Yang](http://cs.ccnu.edu.cn/info/1158/2237.htm) and [Prof. Bo Li](http://maths.ccnu.edu.cn/info/1040/18436.htm).
 
@@ -20,7 +22,6 @@ I am currently a junior undergraduate student in the School of Mathematics and S
 2021.9-Today 华中师范大学 计算机科学（辅修） 已完成面向对象程序设计、数据结构等核心课程学习
 
 2022.6-2022.9 北京熵简科技有限公司 NLP算法实习生
-
 
 2020.9-Today School of Mathematics and Statistics, Central China Normal University
 Statistics (major) Rank: 2/26
@@ -41,7 +42,6 @@ Computer Science (minor) Completed core courses including Object-Oriented Progra
 
 同时我也关注**教育大数据**中的相关问题，包括但不限于知识追踪，Q矩阵的纠错与生成等。
 
-
 I am currently focusing on natural language processing under resource-constrained conditions. This mainly includes but is not limited to.
 
 1. Data resource-constrained: textual data enhancement methods, semi-supervised learning and few-shot learning.
@@ -51,7 +51,6 @@ Currently I am also focusing on generative models (NLP & CV) including but not l
 
 I am also interested in issues related to big data in education, including but not limited to knowledge tracking, error correction and generation of Q-matrices, etc.
 
-
 # Publicationn
 
 1. Wei J, **Chen Q**, Peng P, et al. Reprint: a randomized extrapolation based on principal components for data augmentation[J]. arXiv preprint arXiv:2204.12024, 2022.    [Link](https://arxiv.org/abs/2204.12024)
@@ -60,15 +59,17 @@ I am also interested in issues related to big data in education, including but n
 
 # Selected Projects
 
-1. 基于LoRA高效微调的大模型Fine Tune尝试 [Chinese-alpaca-lora](https://github.com/LC1332/Chinese-alpaca-lora)**（800+ stars and still increasing）**
+1. 基于LoRA高效微调的大模型Fine Tune尝试 [Chinese-alpaca-lora](https://github.com/LC1332/Chinese-alpaca-lora)**（1600+ stars and still increasing）**
 2. 基于AutoEncoder的Q矩阵自动纠错方法（在研 仓库暂时不能公开）
 3. 一种高效的文本分类方法（Related to Pub #2）[Accelerating-Semi-Supervised-Text-Classification-by-K-way-Projecting-Networks](https://github.com/qiyuan-chen/Accelerating-Semi-Supervised-Text-Classification-by-K-way-Projecting-Networks)
 
 # Selected Awards and AchievementsMath Modeling
 
+第19届“明天小小科学家”奖励活动 全国二等奖
+
 1. 2021年全国大学生数学建模竞赛 **一等奖**
-3. 2022年美国大学生数学建模竞赛 **H奖**
-4. 2022年”正大杯市场调研大赛“ **全国三等奖**
+2. 2022年美国大学生数学建模竞赛 **H奖**
+3. 2022年”正大杯市场调研大赛“ **全国三等奖**
 
 
 1. 2021 Contemporary Undergraduate Mathematical Contest in Modeling ***First Prize***
@@ -83,7 +84,6 @@ CET6：530
 
 爱好：羽毛球，古典音乐，国际象棋，数码设备（机械键盘、NAS等）
 
-
 Political Status: Probationary Party Member
 
 CET6 Score: 530
@@ -92,6 +92,6 @@ Hobbies: Badminton, Classical Music, Chess, Digital Devices (Mechanical Keyboard
 
 
 
-Last update: 2023/03/26
+Last update: 2023/4/2
 
-最近更新：2022年3月26日
+最近更新：2023年4月2日
