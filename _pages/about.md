@@ -9,7 +9,7 @@ redirect_from:
 ---
 **我在此表示衷心感谢您的关注。目前，我正在寻找24Fall国内推免的人工智能、统计学、大数据方向的硕士或博士生导师（国外亦可），借此主页*简单介绍*个人情况（更多竞赛、科研、项目经历欢迎进一步详聊），若您对我有兴趣，可以邮件联系（邮箱：chenqiyuan1012@foxmail.com qiyuanchen@mails.ccnu.edu.cn）。**
 
-NOTE：本主页只是
+NOTE：本主页只是一个简单的个人介绍，更多的获奖与项目情况欢迎查看简历或者邮件联系。
 
 我现在是华中师范大学数学与统计学学院，统计学专业的一名大三年级本科生，排名2/26。在大一第二学期，我在[杨海彤](http://cs.ccnu.edu.cn/info/1158/2237.htm)副教授和[李波](http://maths.ccnu.edu.cn/info/1040/18436.htm)教授的指导下开始自然语言处理和教育大数据相关的研究工作。
 
@@ -59,7 +59,7 @@ I am also interested in issues related to big data in education, including but n
 
 # Selected Projects
 
-1. 基于LoRA高效微调的大模型Fine Tune尝试 [Chinese-alpaca-lora](https://github.com/LC1332/Chinese-alpaca-lora)**（1600+ stars and still increasing）**
+1. 【骆驼】中文开源大规模语言模型 [Chinese-alpaca-lora](https://github.com/LC1332/Chinese-alpaca-lora)**（2200+ stars and still increasing）**
 2. 基于AutoEncoder的Q矩阵自动纠错方法（在研 仓库暂时不能公开）
 3. 一种高效的文本分类方法（Related to Pub #2）[Accelerating-Semi-Supervised-Text-Classification-by-K-way-Projecting-Networks](https://github.com/qiyuan-chen/Accelerating-Semi-Supervised-Text-Classification-by-K-way-Projecting-Networks)
 
@@ -92,6 +92,6 @@ Hobbies: Badminton, Classical Music, Chess, Digital Devices (Mechanical Keyboard
 
 
 
-Last update: 2023/4/2
+Last update: 2023/4/20
 
-最近更新：2023年4月2日
+最近更新：2023年4月20日
