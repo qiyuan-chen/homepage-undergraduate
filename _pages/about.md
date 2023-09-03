@@ -11,7 +11,7 @@ redirect_from:
 我现在是华中师范大学数学与统计学学院，统计学专业的一名大四年级本科生。在大一第二学期，我在[杨海彤](http://cs.ccnu.edu.cn/info/1158/2237.htm)副教授和[李波](http://maths.ccnu.edu.cn/info/1040/18436.htm)教授的指导下开始自然语言处理和教育大数据相关的研究工作。从24年开始，我将会在浙江大学计算机学院攻读博士学位，由[吴健教授](https://person.zju.edu.cn/en/wujian)和[胡旭明博士](https://xuminghu.github.io/)共同指导。
 
 
-I am currently a senior undergraduate student majoring in Statistics at the School of Mathematics and Statistics at Central China Normal University. In the second semester of my freshman year, I began research work related to natural language processing and educational big data under the guidance of Associate [Professor Yang Haitong](http://cs.ccnu.edu.cn/info/1158/2237.htm) and [Professor Li Bo](http://maths.ccnu.edu.cn/info/1040/18436.htm). Starting in 2024, I will be pursuing a Ph.D. degree at the College of Computer Science at Zhejiang University, co-advised by [Professor Wu Jian](https://person.zju.edu.cn/en/wujian) and Dr. [Hu Xuming](https://xuminghu.github.io/).
+I am currently a senior undergraduate student majoring in Statistics at the School of Mathematics and Statistics at Central China Normal University. In the second semester of my freshman year, I began research work related to natural language processing and educational big data under the guidance of Associate [Professor Yang Haitong](http://cs.ccnu.edu.cn/info/1158/2237.htm) and [Professor Li Bo](http://maths.ccnu.edu.cn/info/1040/18436.htm). Starting in 2024, I will be pursuing a Ph.D. degree at the College of Computer Science at Zhejiang University, co-advised by [Professor Wu Jian](https://person.zju.edu.cn/en/wujian) and [Dr. Hu Xuming](https://xuminghu.github.io/).
 
 # Education and Work Experience
 
