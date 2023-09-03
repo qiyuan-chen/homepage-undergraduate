@@ -7,13 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**我在此表示衷心感谢您的关注。目前，我正在寻找24Fall国内推免的人工智能、统计学、大数据方向的硕士或博士生导师（国外亦可），借此主页*简单介绍*个人情况（更多竞赛、科研、项目经历欢迎进一步详聊），若您对我有兴趣，可以查看[我的简历](https://github.com/qiyuan-chen/homepage/blob/main/attachment/cv.pdf)或是邮件联系（邮箱：chenqiyuan1012@foxmail.com qiyuanchen@mails.ccnu.edu.cn）。**
 
-NOTE：本主页只是一个简单的个人介绍，更多的获奖与项目情况欢迎查看简历或者邮件联系。
+我现在是华中师范大学数学与统计学学院，统计学专业的一名大四年级本科生。在大一第二学期，我在[杨海彤](http://cs.ccnu.edu.cn/info/1158/2237.htm)副教授和[李波](http://maths.ccnu.edu.cn/info/1040/18436.htm)教授的指导下开始自然语言处理和教育大数据相关的研究工作。从24年开始，我将会在浙江大学计算机学院攻读博士学位，由[吴健教授](https://person.zju.edu.cn/en/wujian)和[胡旭明博士](https://xuminghu.github.io/)共同指导。
 
-我现在是华中师范大学数学与统计学学院，统计学专业的一名大三年级本科生，排名2/26。在大一第二学期，我在[杨海彤](http://cs.ccnu.edu.cn/info/1158/2237.htm)副教授和[李波](http://maths.ccnu.edu.cn/info/1040/18436.htm)教授的指导下开始自然语言处理和教育大数据相关的研究工作。
 
-I am currently a junior undergraduate student in the School of Mathematics and Statistics, majoring in Statistics, at Central China Normal University. In the second semester of my freshman year, I started my research work related to natural language processing and big data in education under the supervision of [Prof. Haitong Yang](http://cs.ccnu.edu.cn/info/1158/2237.htm) and [Prof. Bo Li](http://maths.ccnu.edu.cn/info/1040/18436.htm).
+I am currently a senior undergraduate student majoring in Statistics at the School of Mathematics and Statistics at Central China Normal University. In the second semester of my freshman year, I began research work related to natural language processing and educational big data under the guidance of Associate [Professor Yang Haitong](http://cs.ccnu.edu.cn/info/1158/2237.htm) and [Professor Li Bo](http://maths.ccnu.edu.cn/info/1040/18436.htm). Starting in 2024, I will be pursuing a Ph.D. degree at the College of Computer Science at Zhejiang University, co-advised by [Professor Wu Jian](https://person.zju.edu.cn/en/wujian) and Dr. [Hu Xuming](https://xuminghu.github.io/).
 
 # Education and Work Experience
 
